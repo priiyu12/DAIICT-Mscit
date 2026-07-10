@@ -64,9 +64,6 @@ This repository contains:
 - 📚 Reference Books
 - 💻 Lab Work
 - 📂 Course Projects
-- 📋 Assignments
-- ✅ Solutions
-- 💡 Extra Practice Questions
 - 📌 Additional Study Resources
 
 ---
@@ -93,4 +90,4 @@ They are shared **strictly for educational purposes**. If any copyrighted conten
 
 ## 🤝 Contributions
 
-If you have missing notes, additional PYQs, updated lecture slides, or other useful resources for the **DAIICT M.Sc. IT** program, feel free to open a Pull Request or create an Issue.
+If you have missing notes, additional PYQs, updated lecture slides, or other useful resources for the **DAIICT M.Sc. IT** program, feel free to open a Pull Request.
