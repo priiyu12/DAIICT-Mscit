@@ -8,52 +8,6 @@ The repository will continue to grow with each semester as I upload new lecture 
 
 ---
 
-## 📂 Repository Structure
-
-```text
-DAIICT-MScIT/
-│
-├── Semester-1/
-│   ├── DBMS/
-│   │   ├── Lecture-PDFs/
-│   │   ├── Lab/
-│   │   └── PYQs/
-│   │
-│   ├── Discrete-Mathematics/
-│   │   ├── Previous-Papers/
-│   │   ├── Solutions/
-│   │   └── Question-Bank/
-│   │
-│   └── ...
-│
-├── Semester-2/
-│   ├── Computer-Networks/
-│   │   ├── Lecture-PDFs/
-│   │   └── PYQs/
-│   │
-│   ├── Introduction-to-Algorithms/
-│   │   ├── Lecture-PDFs/
-│   │   └── Reference-Books/
-│   │
-│   ├── Object-Oriented-Programming/
-│   │   └── Project/
-│   │
-│   ├── Software-Engineering/
-│   │   ├── Lecture-PDFs/
-│   │   ├── PYQs/
-│   │   └── Project/
-│   │
-│   ├── System-Programming/
-│   │   ├── Notes/
-│   │   └── PYQs/
-│   │
-│   └── ...
-│
-└── README.md
-```
-
----
-
 ## 📚 What's Included
 
 This repository contains:
